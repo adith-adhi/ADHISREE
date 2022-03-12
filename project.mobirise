@@ -44,8 +44,15 @@
     "versionPublish": "5.6.3",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "publishChangesOnly": false
+    "favicon": false,
+    "publishChangesOnly": false,
+    "mbrsiteDomain": "zpluzkmzd0",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
