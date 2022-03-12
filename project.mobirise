@@ -45,7 +45,7 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mbrsiteDomain": "zpluzkmzd0",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
