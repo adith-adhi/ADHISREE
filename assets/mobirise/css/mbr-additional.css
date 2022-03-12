@@ -726,6 +726,10 @@ a {
 .cid-sZS1wG3JJe .card-wrapper .card-title {
   color: #ffffff;
 }
+.cid-sZS1wG3JJe .card-wrapper .card-title,
+.cid-sZS1wG3JJe .card-box {
+  text-align: center;
+}
 .cid-s48udlf8KU {
   padding-top: 5rem;
   padding-bottom: 2rem;
